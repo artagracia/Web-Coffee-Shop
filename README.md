@@ -1,2 +1,2 @@
 # Web-Coffee-Shop
-Use HTML &amp; CSS
+Using HTML &amp; CSS
