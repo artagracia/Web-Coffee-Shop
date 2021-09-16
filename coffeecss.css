@@ -1,0 +1,92 @@
+.kotak{
+    font-family: segoe UI;
+    margin: 5px;
+}
+.logo{
+    position: absolute;
+    margin: 50px;
+    margin-top: -8px;
+    margin-left: -20px;
+}
+.merk{
+    text-indent: 522px;
+}
+li.active{
+    margin-left: 730px;
+    margin-top: -7px;
+    position: absolute;;
+}
+.container{
+    margin-left: 315px;
+    margin-top: -30px;
+    font-size: 20px;
+}
+nav.navbar.navbar-inverse {
+    margin-left: 610px;
+    margin-top: -25px;
+    font-size: 20px;
+}
+ul.nav.nav-pills.nav-stacked {
+    margin-left: 870px;
+    font-size: 18px;
+    position: absolute;
+    margin-top: -25px;
+}
+.tabel-harga{
+    transform: translate(50px, 50px);
+    position: absolute;
+    top: 8%;
+    left: 13%;
+    overflow: hidden;
+    background-color: grey;
+    padding-bottom: 35px;
+    border-radius: 24px;
+    padding:15px;
+}
+img{
+    border-radius: 24px;
+}
+h4{
+    position: inherit;
+    margin-bottom: -17px;
+    margin-top: 4px;
+    font-family: Times new roman;
+}
+h5{
+    position: inherit;
+    margin-bottom: -3px;
+    font-family: Times new roman;
+}
+.tabel-harga2{
+    transform: translate(50px, 50px);
+    position: absolute;
+    top: 8%;
+    left: 57%;
+    overflow: hidden;
+    background-color: grey;
+    padding-bottom: 35px;
+    border-radius: 24px;
+    padding:15px;
+}
+.tabel-harga5{
+    transform: translate(50px, 50px);
+    position: absolute;
+    top: 50%;
+    left: 13%;
+    overflow: hidden;
+    background-color: grey;
+    padding-bottom: 35px;
+    border-radius: 24px;
+    padding:15px;
+}
+.tabel-harga6{
+    transform: translate(50px, 50px);
+    position: absolute;
+    top: 51%;
+    left: 57%;
+    overflow: hidden;
+    background-color: grey;
+    padding-bottom: 35px;
+    border-radius: 24px;
+    padding:15px;
+}

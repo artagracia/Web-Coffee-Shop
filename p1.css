@@ -1,0 +1,39 @@
+.kotak{
+	font-family: segoe UI;
+	margin: 5px;
+}
+.logo{
+	position: absolute;
+	margin: 50px;
+	margin-top: -8px;
+	margin-left: -20px;
+}
+.merk{
+	text-indent: 522px;
+}
+li.active{
+	margin-left: 730px;
+	margin-top: -7px;
+	position: absolute;;
+}
+li{
+	margin-top: 10px;
+	margin-left: 280px;
+	font-size: -31px;
+	position: absolute;;
+}
+.container{
+	margin-left: 315px;
+	margin-top: -30px;
+	font-size: 20px;
+}
+nav.navbar.navbar-default.navbar-static-top{
+	margin-left: 290px;
+	margin-top: 3px;
+}
+nav.navbar.navbar.-default.navbar-fixed-bottom{
+	margin-left: 870px;
+	font-size: 18px;
+	position: absolute;
+	margin-top: -25px;
+}
